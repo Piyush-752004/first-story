@@ -1,3 +1,2 @@
 # first-story
-demo
-second
+de
